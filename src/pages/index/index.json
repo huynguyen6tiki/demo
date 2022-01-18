@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "component": "pages/index/component"
+  },
+  "transparentTitle": "none",
+  "defaultTitle": "Test",
+  "titleBarColor": "#1A94FF",
+  "backgroundColor": "#fff",
+  "allowsBounceVertical": "NO",
+  "pullRefresh": "NO"
+}

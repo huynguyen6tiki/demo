@@ -1,0 +1,5 @@
+<view onTap="onAdd" style="padding: 10px; position: fixed; top: 0; left: 0; right: 0; z-index: 100;">Add +</view>
+<view tiki:for="{{items}}" tiki:key="id">
+    <component text="{{item.text}}" item="{{item}}" />
+</view>
+<view style="margin-bottom: 200px;"></view>

@@ -1,0 +1,8 @@
+{
+  "name": "tiniapp-feed-test",
+  "version": "0.1.0",
+  "tiki": {
+    "appIdentifier": "vn.tiki.feed.test",
+    "buildNumber": 1
+  }
+}
